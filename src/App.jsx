@@ -7,7 +7,7 @@ function App() {
  
 
   return (
-    <>My React App.
+    <>My React App...
     </>
    
   )
